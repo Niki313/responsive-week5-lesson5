@@ -11,31 +11,9 @@
   }
 
 
-  .logo{
-    max-height: 40px;
-    margin-left: 110px;
-  }
   /* Work */
   
-  .navbar-nav{
-    font-family: var(--second-font);
-    margin-left: 870px;
-    font-weight: 500;
-    text-decoration: none;
-    padding: 13px 0;
-  }
-  
-  nav .nav-link{
-    color: var(--sixth-color);
-  }
-  nav .nav-link:hover{
-    color: var(--second-color);
-  }
-  #active-link{
-    color: var(--second-color);
-  }
-
-  
+   
     .container{
         width: 100%;
         margin: 0 auto;
