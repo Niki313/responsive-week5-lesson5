@@ -1,12 +1,6 @@
 :root {
-  --first-color: #272142;
   --second-color: #6c63ff;
-  --third-color: #f9f7fe;
-  --fourth-color: white;
-  --fifth-color: black;
   --sixth-color: #272142;
-  --seventh-color: #6c757d;
-  --first-font: "Playfair Display", serif;
   --second-font: "Poppins", sans-serif;
 }
 
@@ -38,7 +32,9 @@ nav .nav-link:hover {
   font-size: 18px;
 }
 
-
+.nav-item .contact-menu{
+  margin-right: 100px;
+}
 
 
 
@@ -59,7 +55,6 @@ nav .nav-link:hover {
     font-size: 9px;
   }
 }
-
 
 @media (min-width:301px) and (max-width: 700px) {
   .logo {
